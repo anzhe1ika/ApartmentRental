@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Telegram.Bot" Version="20.0.0-alpha.1" />
+		<PackageReference Include="WTelegramClient" Version="4.1.2-dev.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ApartmentRental.RealEstateClient\ApartmentRental.RealEstateClient.csproj" />
+		<ProjectReference Include="..\ApartmentRental.WebAPI\ApartmentRental.WebAPI.csproj" />
+	</ItemGroup>
+</Project>
