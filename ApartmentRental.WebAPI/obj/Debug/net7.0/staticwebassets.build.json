@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AqZuu4dQdTx5H9CgRouXNT1T7Gq2Lu5DuH00tjC773Q=",
+  "Source": "ApartmentRental.WebAPI",
+  "BasePath": "_content/ApartmentRental.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
