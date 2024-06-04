@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\bin\Debug\net7.0\ApartmentRental.RealEstateClient.deps.json
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\bin\Debug\net7.0\ApartmentRental.RealEstateClient.dll
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\bin\Debug\net7.0\ApartmentRental.RealEstateClient.pdb
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.AssemblyInfo.cs
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.dll
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\refint\ApartmentRental.RealEstateClient.dll
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ApartmentRental.RealEstateClient.pdb
+C:\Users\User\source\repos\ApartmentRental\ApartmentRental.RealEstateClient\obj\Debug\net7.0\ref\ApartmentRental.RealEstateClient.dll
